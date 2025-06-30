@@ -19,11 +19,10 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
     - Development HR Management System using Next.js
     <br>
     <a href="https://employee.intraina.id"><img src="https://webinar.intraina.id/favicon.png" width="48" height="36"> </a>
+    <br>
     - Development Brand Legit Check with Flutter for iOS and Android
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.checkervisor.app&pcampaignid=web_share" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/LzU03d7ZcDUUTuEamZHNm3RUP_5i2ZsXHimczS6LRQ_SggErp3_krXIomaY7-Smguao=w480-h960" width="36" height="36">
-    <br>
-    Playstore
     </a>
     - Built Present System with Blockchain
     - Created weather app with open source API
