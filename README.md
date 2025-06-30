@@ -15,13 +15,11 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
         <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 
 - Portfolio Highlights:
-
     - Development HR Management System using Next.js
-    <br>
+      
     <a href="https://employee.intraina.id"><img src="https://webinar.intraina.id/favicon.png" width="48" height="36"> </a>
-    <br>
     - Development Brand Legit Check with Flutter for iOS and Android
-    <br>
+      
     <a href="https://play.google.com/store/apps/details?id=com.checkervisor.app&pcampaignid=web_share" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/LzU03d7ZcDUUTuEamZHNm3RUP_5i2ZsXHimczS6LRQ_SggErp3_krXIomaY7-Smguao=w480-h960" width="36" height="36">
     </a>
     - Built Present System with Blockchain
